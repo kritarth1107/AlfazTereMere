@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534113910096",
+    "firebase_url": "https://alfaz-tere-mere.firebaseio.com",
+    "project_id": "alfaz-tere-mere",
+    "storage_bucket": "alfaz-tere-mere.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534113910096:android:d48719f639bbe224b8c055",
+        "android_client_info": {
+          "package_name": "com.alfazteremere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534113910096-otq424cdj59siqfkgubdmbmg06djig8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX2SV2IocW0p5z5kfz4wUO8-QW5O0RvC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534113910096-otq424cdj59siqfkgubdmbmg06djig8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
